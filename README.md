@@ -10,4 +10,7 @@ These are the steps followed during the project:
 
 ✅ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
 
+
+likendln 
 [Arvind shyam](https://www.linkedin.com/in/arvind-shyam?/)
+
